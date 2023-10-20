@@ -23,20 +23,21 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
       <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-      <!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> -->
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-      <br/>
+      <br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-      <br/>
+      <br>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
       <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white">
-      <br/>
+      <br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+
+      
   </div>
 </div>
 <div style="text-align: left;">
@@ -44,5 +45,12 @@ Here are some ideas to get you started:
   <div align="center">
     <a href="https://velog.io/@jwbang1643"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
   </div>
-  <br> 
+  <br><br>
 </div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=banxzxx&theme=default"/>
+</div>
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=banxzxx&theme=default)](https://git.io/streak-stats)-->
+<!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">-->
